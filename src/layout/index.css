@@ -11,6 +11,6 @@ body {
     padding: 20px;
 }
 
-p {
+h1, p {
     font-family: Arial, sans-serif;
 }
